@@ -29,6 +29,7 @@ I’m looking to collaborate projects that make use of <strong> Python, HTML, CS
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge" alt="html5"/></a>
 <a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3"/></a>
 <a href="https://wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/-wordpress-white?logo=wordpress&logoColor=21759B&style=for-the-badge" alt="wordpress"/></a>
+<a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/-JAVA-white?logo=css3&logoColor=1572B6&style=for-the-badge" alt="Java"/></a>
 
 <h3>Database</h3>
 
