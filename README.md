@@ -5,7 +5,7 @@
 <li>
 I'm in constant learning (currently Python/ Business Analytic)</li>
 <li>
-I’m looking to collaborate projects that make use of <strong> Python, HTML, CSS</strong>
+I’m looking to collaborate projects that make use of <strong> Python, Django, HTML, CSS, Javascript</strong>
 </li>
 </ul>
 <div align="center">
